@@ -41,7 +41,7 @@
             <flag name="center_horizontal" value="0x01" />
             <flag name="center" value="0x11" />
         </attr>
-        <attr name="alignment">
+        <attr name="defaultAlignment">
             <flag name="top" value="0x01" />
             <flag name="bottom" value="0x02" />
             <flag name="center_vertical" value="0x03" />
